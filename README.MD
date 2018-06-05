@@ -1,4 +1,4 @@
-## Files testing the IBM Watson API
+## Files to test the IBM Watson API
 
 HOW-TO
 
